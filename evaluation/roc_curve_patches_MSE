@@ -1,0 +1,40 @@
+Activant entorn virtual...
+Generant ROC Curve...
+Carregant Excel d'anotacions...
+Carregant patches Annotated...
+Total patches carregats: 1322
+Sanos: 1159, Bacteria: 163
+Carregant AutoEncoder...
+
+Iniciant K-Fold ROC per Patches...
+
+================ FOLD 1/5 ================
+✔ ROC guardada: /fhome/maed02/proj_repte3/results/kfold/roc_fold_1.png
+AUC Fold 1: 0.8238
+Threshold Fold 1: 0.000149
+
+================ FOLD 2/5 ================
+✔ ROC guardada: /fhome/maed02/proj_repte3/results/kfold/roc_fold_2.png
+AUC Fold 2: 0.7985
+Threshold Fold 2: 0.000127
+
+================ FOLD 3/5 ================
+✔ ROC guardada: /fhome/maed02/proj_repte3/results/kfold/roc_fold_3.png
+AUC Fold 3: 0.7715
+Threshold Fold 3: 0.000200
+
+================ FOLD 4/5 ================
+✔ ROC guardada: /fhome/maed02/proj_repte3/results/kfold/roc_fold_4.png
+AUC Fold 4: 0.8180
+Threshold Fold 4: 0.000144
+
+================ FOLD 5/5 ================
+✔ ROC guardada: /fhome/maed02/proj_repte3/results/kfold/roc_fold_5.png
+AUC Fold 5: 0.7801
+Threshold Fold 5: 0.000169
+
+============== RESULTATS FINALS ==============
+AUC mitjà = 0.7984
+Threshold mitjà = 0.000158
+✔ ROC mitjana guardada a: /fhome/maed02/proj_repte3/results/kfold/roc_curve_patches_MSE.png
+ROC generada correctament.

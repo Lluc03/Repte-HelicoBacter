@@ -1,0 +1,2 @@
+total_patients,positive_patients,negative_patients,accuracy,auc,true_negatives,false_positives,false_negatives,true_positives
+147,77,70,0.9251700680272109,0.9705009276437848,66,4,7,70
